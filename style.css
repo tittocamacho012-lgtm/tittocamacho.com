@@ -92,7 +92,7 @@ nav a:hover {
             rgba(0, 0, 0, 0.28),
             rgba(0, 0, 0, 0.28)
         ),
-        url("images/hero.jpg") center / cover;
+        url("hello.jpg.png") center / cover;
 
     color: white;
 }
