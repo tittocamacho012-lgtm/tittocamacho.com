@@ -92,7 +92,7 @@ nav a:hover {
             rgba(0, 0, 0, 0.28),
             rgba(0, 0, 0, 0.28)
         ),
-        url("hello.jpg.png") center / cover;
+        url("hello.jpg.png") center 60% / cover;
 
     color: white;
 }
