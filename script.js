@@ -89,63 +89,62 @@ document.addEventListener("DOMContentLoaded", () => {
         },
 
 
-        en: {
+       en: {
 
-            navAbout: "About",
-            navMusic: "Music",
-            navPerformance: "On Stage",
-            navJourney: "Journey",
-            navContact: "Contact",
+    navAbout: "About",
+    navMusic: "Music",
+    navPerformance: "On Stage",
+    navJourney: "Journey",
+    navContact: "Contact",
 
-            heroEyebrow: "Singer · Musician · Artist",
-            heroSubtitle: "Ecuador · Music · Stage",
+    heroEyebrow: "Singer · Musician · Artist",
+    heroSubtitle: "Ecuador · Music · Stage",
 
-            aboutLabel: "01 / About",
-            aboutTitle: "A voice.<br>A musical formation in expansion.",
-            aboutText1: "I am Titto Camacho, an Ecuadorian singer and musician. My artistic formation brings together singing, instrumental performance, choral and symphonic music, with experience ranging from opera and classical music to rock, jazz, popular music and contemporary projects.",
-            aboutText2: "I have participated in projects alongside the <strong>Ecuadorian Youth Symphony Orchestra</strong> and different musical and choral ensembles in Quito. I am currently continuing my artistic training and studying <strong>Orchestral Conducting</strong> with maestro Francisco Navarro Lara.",
-            aboutSignature: "I SING. · I PERFORM. · I STUDY. · I CONDUCT.",
+    aboutLabel: "01 / About",
+    aboutTitle: "A voice.<br>A musical journey in progress.",
+    aboutText1: "I am Titto Camacho, an Ecuadorian singer and musician. My artistic development brings together singing, instrumental performance, choral and symphonic music, with experience ranging from opera and classical music to rock, jazz, popular music and contemporary projects.",
+    aboutText2: "I have participated in projects alongside the <strong>Ecuadorian Youth Symphony Orchestra</strong> and various musical and choral ensembles in Quito. I am currently continuing my artistic development and studying <strong>Orchestral Conducting</strong> with conductor Francisco Navarro Lara.",
+    aboutSignature: "I SING. · I PERFORM. · I STUDY. · I CONDUCT.",
 
-            musicLabel: "02 / Music",
-            musicTitle: "Repertoire<br>and languages.",
-            musicMore: "Among other repertoires, works and styles.",
+    musicLabel: "02 / Music",
+    musicTitle: "Repertoire<br>and musical languages.",
+    musicMore: "Among other repertoires, works and styles.",
 
-            performanceLabel: "03 / On Stage",
-            performanceTitle: "Music<br>in motion.",
-            performanceIntro: "An artistic formation developed across different stages, formats and musical languages.",
+    performanceLabel: "03 / On Stage",
+    performanceTitle: "Music<br>in motion.",
+    performanceIntro: "An artistic practice developed across different stages, formats and musical languages.",
 
-            performance1Title: "Concert",
-            performance1Text: "Vocal performances in solo, choral and symphonic formats.",
+    performance1Title: "Concert",
+    performance1Text: "Vocal performances in solo, choral and symphonic formats.",
 
-            performance2Title: "Opera",
-            performance2Text: "Opera repertoire and stage work applied to vocal performance.",
+    performance2Title: "Opera",
+    performance2Text: "Opera repertoire and stage work applied to vocal performance.",
 
-            performance3Title: "Choral Music",
-            performance3Text: "Participation in choral ensembles and projects alongside orchestras and instrumental ensembles.",
+    performance3Title: "Choral Music",
+    performance3Text: "Participation in choral ensembles and projects alongside orchestras and instrumental ensembles.",
 
-            performance4Title: "Musical Projects",
-            performance4Text: "Collaborations and artistic projects bringing together different styles, musicians and performance formats.",
+    performance4Title: "Musical Projects",
+    performance4Text: "Collaborations and artistic projects bringing together different styles, musicians and performance formats.",
 
-            journeyLabel: "04 / Journey",
+    journeyLabel: "04 / Journey",
 
-            contactLabel: "05 / Contact",
-            contactTitle: "Let's make<br>music.",
-            contactIntro: "For concerts, collaborations, musical projects and artistic proposals.",
+    contactLabel: "05 / Contact",
+    contactTitle: "Let's make<br>music.",
+    contactIntro: "For concerts, collaborations, musical projects and artistic proposals.",
 
-            formName: "Name",
-            formEmail: "Email",
-            formReason: "Reason for contact",
-            formSelect: "Select an option",
-            formConcert: "Concert",
-            formCollab: "Collaboration",
-            formProject: "Musical project",
-            formProposal: "Artistic proposal",
-            formOther: "Other",
-            formMessage: "Message",
-            formButton: "Send proposal"
+    formName: "Name",
+    formEmail: "Email",
+    formReason: "Reason for contact",
+    formSelect: "Select an option",
+    formConcert: "Concert",
+    formCollab: "Collaboration",
+    formProject: "Musical project",
+    formProposal: "Artistic proposal",
+    formOther: "Other",
+    formMessage: "Message",
+    formButton: "Send proposal"
 
-        }
-
+}
     };
 
 
